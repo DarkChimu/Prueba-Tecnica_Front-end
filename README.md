@@ -30,7 +30,7 @@ Principalmente los siguientes aspectos:
 
 4.  **Antes de comenzar a programar:**
 
-* Realizar un `Fork` de este repositorio (https://github.com/iseijasunow/Prueba-T-cnica-Front-end-).
+* Realizar un `Fork` de este repositorio (https://github.com/iseijasunow/Prueba-Tecnica_Front-end).
 * Clonar el fork a su máquina local `git clone git@github.com:USERNAME/FORKED-PROJECT.git`
 * Crear un `branch` en su cuenta de GitHub utilizando su nombre completo.
 
