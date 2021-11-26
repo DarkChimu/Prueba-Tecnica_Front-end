@@ -1,5 +1,5 @@
 <template>
- <div class="container mt-5 text-center">
+ <div>
    <h2>
      Seguidores
    </h2>
@@ -23,7 +23,7 @@ export default {
     return {
       options: {
         width: 500,
-        height: 340,
+        height: 400,
       }
     }
   },

@@ -14,7 +14,8 @@
         <p>Siguiendo: {{ details.following }}</p>
         <p>Numero de Repositorios Publicos: {{ details.public_repos }}</p>
       </div>
-      <div class="info" style="margin-top: 45px">
+      <div class="info" style="margin-top: 6px">
+        <p>ID: {{details.id}}</p>
         <p>Compañía: {{ details.company }}</p>
         <p>
           Twitter:

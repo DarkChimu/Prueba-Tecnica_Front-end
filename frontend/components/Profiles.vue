@@ -8,10 +8,11 @@
         >
           <img class="mini-profile" :src="profile.avatar_url" alt="" />
           <p>{{ profile.login }}</p>
+          <p>ID: {{ profile.id }}</p>
         </nuxt-link>
       </div>
     </div>
-      <Chart class="profile-details" style="background-color: #fff":v-if="followersInfo.length" :datas="followersInfo" />
+      <Chart class="profile-details" style="background-color: #fff" :v-if="followersInfo.length" :datas="followersInfo" />
   </div>
 </template>
 
